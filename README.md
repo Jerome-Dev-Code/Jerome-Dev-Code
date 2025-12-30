@@ -1,6 +1,7 @@
-# 🚀 Portfolio de [Ton Prénom Nom] | Développeur Java
+# 🚀 Hi there, welcome to my Portfolio 
 
-Bienvenue ! Ce profil sert de vitrine pour mes compétences en **Java Core** et en développement d'applications robustes.
+I'm Jérôme, a Java developer with four years of expérience. I gained this experience by developping web application for aeronautic industrials. 
+I 'm pleased to present through this portfolio, my competencies in **Java** and most globally in development.
 
 ## 🛠️ Maîtrise Technique
 
