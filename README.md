@@ -15,13 +15,26 @@ I 'm pleased to present through this portfolio, my competencies in **Java** and 
 
 ---
 
-## ⭐️ Projets Mis en Évidence (Mon Expertise)
+# 🛠️ Projets par Version LTS
 
-| Projet | Objectif Démontré | Concepts Clés |
+### ☕ Java 17+ (Modern Java)
+*Focus : Records, Sealed Classes, Pattern Matching, Switch Expressions.*
+
+| Projet | Description | Points Clés |
 | :--- | :--- | :--- |
-| **[network-chat-server](lien_vers_le_repo_chat)** | **Concurrence & Réseau :** Communication client-serveur et gestion simultanée des connexions. | Sockets, Multithreading, IO, Synchronisation. |
-| **[simple-redis-clone](lien_vers_le_repo_redis)** | **Performances & Structures de Données :** Création d'un système clé-valeur avec gestion de l'expiration en temps réel. | Generics, ConcurrentHashMap, Threads (Daemon). |
-| **[java-file-analyzer](lien_vers_le_repo_analyzer)** | **Data Processing & Java 8+ :** Lecture et agrégation de gros volumes de données (CSV, Logs) en utilisant l'approche fonctionnelle. | Streams API, NIO.2 (Files.lines), Collectors. |
+| **[rpg-text-engine](link)** | Moteur de jeu textuel évolué. | **Records**, **Sealed Classes**, Java Time API. |
+| **[smart-inventory-system](link)** | Gestion de stock avec analyse de données. | **Pattern Matching**, Text Blocks, Stream API. |
+
+### ☕ Java 11 (Standard Enterprise)
+*Focus : HTTP Client, Optional, Lambdas, NIO.2.*
+
+| Projet | Description | Points Clés |
+| :--- | :--- | :--- |
+| **[network-chat-server](link)** | Serveur de chat multithreadé. | **HttpClient**, Sockets, Multithreading. |
+| **[csv-data-processor](link)** | Analyseur de fichiers volumineux. | **Streams**, NIO.2, Lambdas. |
+
+---
+> 💡 **Pourquoi deux versions ?** J'utilise Java 11 pour démontrer ma maîtrise des environnements d'entreprise classiques et Java 17 pour exploiter les dernières avancées en matière de syntaxe et de performance.
 
 ---
 
