@@ -39,5 +39,5 @@ Je vous présente à travers ce portfolio, mes compéttences en **Java** et plus
 ---
 
 > **Vous cherchez un exemple de code spécifique ?**
-> N'hésitez pas à explorer la section **[java-core-kata]([lien_vers_le_repo_kata](https://github.com/Jerome-Dev-Code/java-core-kata))** pour des implémentations d'algorithmes et des exercices de base.
+> N'hésitez pas à explorer la section **[java-core-kata](https://github.com/Jerome-Dev-Code/java-core-kata)** pour des implémentations d'algorithmes et des exercices de base.
 
