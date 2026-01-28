@@ -1,7 +1,7 @@
-# 🚀 Hi there, welcome to my Portfolio 
+# 🚀 Bonjour, bienvenue sur mon portfolio 
 
-I'm Jérôme, a Java developer with four years of expérience. I gained this experience by developping web application for aeronautic industrials. 
-I 'm pleased to present through this portfolio, my competencies in **Java** and most globally in development.
+Je m'appelle Jérôme, ingénieur logiciel avec 4 ans d'expérience en développement d'applications JAVA. J'ai acquéri cette expérience principalement dans le secteur de l'industrie aéronautique. 
+Je vous présente à travers ce portfolio, mes compéttences en **Java** et plus globalement en développement d'applications..
 
 ## 🛠️ Maîtrise Technique
 
