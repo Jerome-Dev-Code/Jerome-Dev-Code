@@ -1,26 +1,26 @@
 # 🚀 Bonjour, bienvenue sur mon portfolio 
 
-Je m'appelle Jérôme, ingénieur logiciel avec 4 ans d'expérience en développement d'applications JAVA. J'ai acquéri cette expérience principalement dans le secteur de l'industrie aéronautique. 
-Je vous présente à travers ce portfolio, mes compéttences en **Java** et plus globalement en développement d'applications..
+My name is Jerome, I am a software engineer with 4 years of experience in JAVA applications development. I have acquired this experience by providing PLM solutions for players in the aeronautical industry. 
+Through this portfolio, I am pleased to share and show my skills with **Java** and overall in sofware engineering.
 
-## 🛠️ Maîtrise Technique
+## 🛠️ Technical base
 
-* **Langage Principal :** Java (LTS 11 / 17)
-* **Concepts Java Core :** 
-    * **Programmation Orientée Objet (POO) :** Design Patterns (Strategy, Factory), SOLID.
-    * **Fonctionnel :** Maîtrise de l'API Stream, Expressions Lambda.
-    * **Concurrence :** Threads, ExecutorService, gestion de la synchronisation.
-    * **Collections :** Utilisation et choix des structures de données (HashMap, ConcurrentHashMap).
-* **Outils & Qualité :** Maven/Gradle, Git/GitHub Actions, JUnit 5.
+* **Main Languages :** Java (LTS 11 / 17)
+* **Core Java & programming concepts :** 
+    * **Object Oriented Programming (OOP) :** Design Patterns (Gang of Four patterns), SOLID, DRY, KISS.
+    * **Funstionnal :** Stream API, Lambda Expressions.
+    * **Concurrency :** Threads, ExecutorService, Synchronization Management.
+    * **Collections :** Choice and usage of Data Structures (HashMap, ConcurrentHashMap).
+* **Quality & Tools :** Maven/Gradle, Git/GitHub Actions, JUnit 5.
 
 ---
 
-# 🛠️ Projets par Version LTS
+# 🛠️ Project by LTS version
 
-### ☕ Java 17+ (Modern Java)
+### ☕ Java 17 (Modern Java)
 *Focus : Records, Sealed Classes, Pattern Matching, Switch Expressions.*
 
-| Projet | Description | Points Clés |
+| Project | Description | Key Points |
 | :--- | :--- | :--- |
 | **[rpg-text-engine](link)** | Moteur de jeu textuel évolué. | **Records**, **Sealed Classes**, Java Time API. |
 | **[smart-inventory-system](link)** | Gestion de stock avec analyse de données. | **Pattern Matching**, Text Blocks, Stream API. |
