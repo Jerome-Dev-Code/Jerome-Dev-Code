@@ -30,7 +30,7 @@ Through this portfolio, I am pleased to share and show my skills with **Java** a
 
 | Projet | Description | Points Clés |
 | :--- | :--- | :--- |
-| **[network-chat-server](link)** | Serveur de chat multithreadé. | **HttpClient**, Sockets, Multithreading. |
+| **[network-chat-server](https://github.com/Jerome-Dev-Code/multithread-chat-server)** | Serveur de chat multithreadé. | **HttpClient**, Sockets, Multithreading. |
 | **[csv-data-processor](link)** | Analyseur de fichiers volumineux. | **Streams**, NIO.2, Lambdas. |
 
 ---
