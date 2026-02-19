@@ -1,7 +1,7 @@
 # 🚀 Hello, welcome to my portfolio 
 
 My name is Jerome, I am a software engineer with 4 years of experience in JAVA applications development. I have acquired this experience by providing PLM solutions for players in the aeronautical industry. 
-Through this portfolio, I am pleased to share and show my skills with **Java** and overall in sofware engineering.
+Through this portfolio, I am pleased to share and show my skills with **Java** and overall in software engineering.
 
 ## 🛠️ Technical base
 
