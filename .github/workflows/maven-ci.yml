@@ -60,5 +60,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.project_name }}-executable  # Le chemin pointe vers le dossier target généré par Maven
-          path: ${{ matrix.project_name }}/target/*.jar
+          path: ${{ matrix.project_path }}/target/*.jar
           retention-days: 5  # Optionnel : supprime l'artefact après 5 jours pour gagner de la place
