@@ -5,8 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.portfolio</groupId>
-    <artifactId>java-11-katas</artifactId>
+    <artifactId>java-11-katas-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
+    <name>Java 11 Katas - Parent</name>
+
+    <modules>
+    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -19,6 +26,12 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
