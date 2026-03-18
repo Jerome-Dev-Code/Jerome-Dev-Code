@@ -1,8 +1,38 @@
+# --- IDE Specific Files ---
+# Ignore le dossier de configuration d'IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ignore les fichiers de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Ignore les fichiers Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# --- Build & Output ---
+# Ignore les dossiers de compilation Maven (très important !)
+**/target/
+
+# Ignore les dossiers de compilation Gradle
+**/.gradle/
+**/build/
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.log
+
+# --- Optional: Local configuration ---
+*.properties
+*.local
 # Compiled class file
 *.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
